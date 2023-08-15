@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0px;
+    
+ }
+ body{
+    height: 3000px;
+}
+.TdNeiva{
+    font-size: 20px;
+    font-family: "Cascadia Code", sans-serif;
+    background-color: #222;
+    color: white;
+    border-radius:#222;
+    text-align: center;
+    padding: 250px;
+    }
+    /*first*/
+    
+.contenier1{
+    position: absolute;
+    right: 60%;
+    top: 50%
+}
+.img1 {                                                                                                                         
+    padding: 50px;
+    font-size: 20px;
+    margin: 0;
+}
+.text1{
+    text-align: left;
+    font-family: Calibri,sans-serif;
+    opacity:0.9;
+    margin: 0;
+}
+    /*second*/
+.contenier2{
+    position: absolute;
+    right: 40%;
+    top: 49%;
+}
+.img2{
+    padding: 50px;
+    font-size: 20px;
+    margin: 0;
+}
+.text2{
+    text-align: center;
+    font-family: Calibri,sans-serif;
+    opacity:0.9;
+    margin: 0;
+}
+    /*third*/
+.contenier3{
+   position: absolute;
+    right: 10%;
+    top: 54%; 
+}
+
+.text3{
+    font-family: Calibri,sans-serif;
+    opacity:0.9;
+    
+}
+    /*fourth*/
+    
+.contenier4{
+    position: absolute;
+    top:100%;
+    left:23%;
+    
+}
+    
+.text4{
+    text-align: left;
+    opacity: 0.9;
+    font-family: Calibri, sans-serif;
+}
+    /*five*/
+.contenier5{
+        position: absolute;
+        top:100%;
+        left:48%;
+}
+.text5{
+        text-align: left;
+        opacity: 0.9;
+        font-family: Calibri, sans-serif;
+}
+/*six*/
+.contenier6{
+    position: absolute;
+    top: 100%;
+    left: 73%;
+}
+.text6{
+    opacity: 0.9;
+    font-family: Calibri, sans-serif;
+    
+}
+
+/*seven*/ 
+
+.contenier7{
+   position: absolute;
+   left: 73%;
+   top:140%;
+}
+.text7{
+    text-align: left;
+    opacity: 0.9;
+    font-family: Calibri, sans-serif;
+}
+/* eight*/
+.contenier8{
+    position: absolute;
+    top:140%;
+    left: 49%;
+}
+.text8{
+    opacity: 0.9;
+    font-family: Calibri,sans-serif;
+}
+/* nine*/
+.contenier9{
+    position: absolute;
+    top:140%;
+    left: 23%;
+}
+.text9{
+    opacity: 0.9;
+    font-family: Calibri, sans-serif;
+}
+/*ten*/
+.contenier10{
+    position: absolute;
+    top:190%;
+    left: 23%;
+}
+.strong1{
+    font-size: 20px;
+    line-height: 10px;
+    font-family: Georgia;
+    margin: 0;
+}
+.text10{
+    opacity: 0.9;
+    padding: 10px;
+}
+/*eleven*/
+.contenier11{
+    position: absolute;
+    top: 194%;
+    left: 49%;
+}
+.text11{
+    opacity:0.9;
+    padding: 10px;
+}
+.strong2{
+    font-size: 20px;
+    line-height: 10px;
+    font-family: Georgia;
+    margin: 0;
+}
+/*twelve*/
+.contenier12{
+    position: absolute;
+    top: 195%;
+    left: 73%;
+}
+.text12{
+    opacity:0.9;
+    padding: 10px;
+}
+.strong3{
+    font-size: 20px;
+    line-height: 10px;
+    font-family: Georgia;
+    margin: 0;
+}
+/*end*/
+.baner{
+    font-size: 20px;
+    font-family: "Cascadia Code", sans-serif;
+    background-color: #222;
+    color: rgb(156, 17, 17);
+    border-radius:#222;
+    text-align: center;
+    padding: 2350px;
+}
